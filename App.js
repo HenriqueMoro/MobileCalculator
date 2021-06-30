@@ -26,7 +26,7 @@ export default function App() {
           setLen(true)
       }
       
-    else if(oi== Number & number < 12 ){
+    else if(oi== Number && number < 12 ){
         if(oi.length >=12){
             setLen(true)
         }
